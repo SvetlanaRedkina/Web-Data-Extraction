@@ -1,0 +1,674 @@
+[
+    {
+        "Job_title": "Data Entry Clerk",
+        "Company_name": "Country Wide Insurance",
+        "Company_rating": "2.9",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $76.5K – $96.9K a year"
+    },
+    {
+        "Job_title": "Editorial Assistant, Children's Books",
+        "Company_name": "Barnes & Noble",
+        "Company_rating": "3.8",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $50K – $63.2K a year"
+    },
+    {
+        "Job_title": "Data Analyst",
+        "Company_name": "Northwell Health",
+        "Company_rating": "3.9",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $76.2K – $96.4K a year"
+    },
+    {
+        "Job_title": "Junior Analyst",
+        "Company_name": "BNY Mellon",
+        "Company_rating": "3.5",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $58.5K – $74.1K a year"
+    },
+    {
+        "Job_title": "WALL STREET OPPORTUNITIES - IMMEDIATE",
+        "Company_name": "Pepsi-Cola & National Brand Beverages, Ltd.",
+        "Company_rating": "3.8",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $38.3K – $48.5K a year"
+    },
+    {
+        "Job_title": "Data Analyst",
+        "Company_name": "Barstool Sports",
+        "Company_rating": "4.6",
+        "Company_location": "Temporarily Remote in Jersey City, NJ",
+        "Estimated_salary": "Estimated $85.3K – $108K a year"
+    },
+    {
+        "Job_title": "Data Scientist",
+        "Company_name": "National Research Group",
+        "Company_rating": "2.3",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $70.3K – $89.1K a year"
+    },
+    {
+        "Job_title": "Data Engineer, Megaphone",
+        "Company_name": "Spotify",
+        "Company_rating": "4.3",
+        "Company_location": "Remote in New York, NY",
+        "Estimated_salary": "Estimated $126K – $160K a year"
+    },
+    {
+        "Job_title": "Data Analyst, Growth",
+        "Company_name": "ViacomCBS Networks International",
+        "Company_rating": "3.9",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $82.8K – $105K a year"
+    },
+    {
+        "Job_title": "WALL STREET OPPORTUNITIES - IMMEDIATE",
+        "Company_name": "AT&T",
+        "Company_rating": "3.7",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $72.4K – $91.6K a year"
+    },
+    {
+        "Job_title": "Sr. Big data engineer(We need 12+ years of exp candidates)",
+        "Company_name": "Duolingo",
+        "Company_rating": "4.0",
+        "Company_location": "Remote in New York, NY",
+        "Estimated_salary": "Estimated $75.7K – $95.9K a year"
+    },
+    {
+        "Job_title": "Membership and Database Specialist",
+        "Company_name": "Penguin Random House LLC",
+        "Company_rating": "3.9",
+        "Company_location": "Remote in New York, NY",
+        "Estimated_salary": "Estimated $49.3K – $62.5K a year"
+    },
+    {
+        "Job_title": "Junior Modeling Quant",
+        "Company_name": "Mount Sinai",
+        "Company_rating": "3.8",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $65.6K – $83K a year"
+    },
+    {
+        "Job_title": "Data Analytics Team Lead",
+        "Company_name": "CVS Health",
+        "Company_rating": "3.2",
+        "Company_location": "Hybrid remote in New York, NY",
+        "Estimated_salary": "Estimated $50.7K – $64.1K a year"
+    },
+    {
+        "Job_title": "Data Analyst I-Urology - ISM",
+        "Company_name": "Mount Sinai",
+        "Company_rating": "3.8",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $67.9K – $85.9K a year"
+    },
+    {
+        "Job_title": "Program Specialist 2 (Cannabis), #00557",
+        "Company_name": "NYU Langone",
+        "Company_rating": "4.0",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $77K – $97.6K a year"
+    },
+    {
+        "Job_title": "eCommerce Data Analyst",
+        "Company_name": "IHD",
+        "Company_rating": "5.0",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $72.8K – $92.2K a year"
+    },
+    {
+        "Job_title": "Product Manager, Spotify for Artists, Artist Presence",
+        "Company_name": "Spotify",
+        "Company_rating": "4.3",
+        "Company_location": "Remote in New York, NY",
+        "Estimated_salary": "Estimated $67.7K – $85.7K a year"
+    },
+    {
+        "Job_title": "Junior Business and Data Analyst",
+        "Company_name": "Utilisave",
+        "Company_rating": "3.2",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $69.6K – $88.2K a year"
+    },
+    {
+        "Job_title": "Data Analyst",
+        "Company_name": "CLEAR - Field",
+        "Company_rating": "2.6",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $98.6K – $125K a year"
+    },
+    {
+        "Job_title": "Data Center Operations Specialist - ESO",
+        "Company_name": "Microsoft",
+        "Company_rating": "4.2",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $31.3K – $39.7K a year"
+    },
+    {
+        "Job_title": "Senior Data Center Technician",
+        "Company_name": "Olo",
+        "Company_rating": "2.8",
+        "Company_location": "Brooklyn, NY",
+        "Estimated_salary": "Estimated $97.5K – $123K a year"
+    },
+    {
+        "Job_title": "Data Analyst",
+        "Company_name": "Biz2Credit Inc",
+        "Company_rating": "3.2",
+        "Company_location": "Hybrid remote in New York, NY",
+        "Estimated_salary": "Estimated $68.7K – $86.9K a year"
+    },
+    {
+        "Job_title": "Office Assistant",
+        "Company_name": "NYC Office Of The Mayor",
+        "Company_rating": "3.2",
+        "Company_location": "Remote in New York, NY",
+        "Estimated_salary": "Estimated $36.5K – $46.3K a year"
+    },
+    {
+        "Job_title": "Key Leader",
+        "Company_name": "Lululemon",
+        "Company_rating": "4.2",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $30.1K – $38.1K a year"
+    },
+    {
+        "Job_title": "Career Awareness Program -- Program Assistant",
+        "Company_name": "The Fresh Air Fund",
+        "Company_rating": "4.3",
+        "Company_location": "Remote in New York, NY",
+        "Estimated_salary": "Estimated $78.3K – $99.1K a year"
+    },
+    {
+        "Job_title": "Inventory Technician I",
+        "Company_name": "Astreya",
+        "Company_rating": "2.8",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $33.1K – $41.9K a year"
+    },
+    {
+        "Job_title": "Data Scientist, Customer Analytics",
+        "Company_name": "Spring Health",
+        "Company_rating": "3.3",
+        "Company_location": "Hybrid remote in New York, NY",
+        "Estimated_salary": "Estimated $87K – $110K a year"
+    },
+    {
+        "Job_title": "Data Analyst",
+        "Company_name": "WebMD",
+        "Company_rating": "3.6",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $70.5K – $89.3K a year"
+    },
+    {
+        "Job_title": "ASSOCIATE DATA ANALYST [Temporary]",
+        "Company_name": "United Nations",
+        "Company_rating": "4.4",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $61.3K – $77.7K a year"
+    },
+    {
+        "Job_title": "Quantitative Researcher",
+        "Company_name": "TikTok",
+        "Company_rating": "3.4",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $62.3K – $78.9K a year"
+    },
+    {
+        "Job_title": "RISE Fellowship",
+        "Company_name": "RISE",
+        "Company_rating": "3.7",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $59.7K – $75.5K a year"
+    },
+    {
+        "Job_title": "Investigative Analyst",
+        "Company_name": "Aon",
+        "Company_rating": "3.7",
+        "Company_location": "Brooklyn, NY",
+        "Estimated_salary": "Estimated $33.8K – $42.8K a year"
+    },
+    {
+        "Job_title": "Immigration Associate, Global Mobility",
+        "Company_name": "DataDog",
+        "Company_rating": "4.0",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $47.4K – $60K a year"
+    },
+    {
+        "Job_title": "Analyst-Risk & Info Management",
+        "Company_name": "Amex",
+        "Company_rating": "4.1",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $51.4K – $65K a year"
+    },
+    {
+        "Job_title": "Data Entry/File Clerk 2pm-10pm",
+        "Company_name": "ION",
+        "Company_rating": "3.9",
+        "Company_location": "Brooklyn, NY",
+        "Estimated_salary": "Estimated $29.5K – $37.3K a year"
+    },
+    {
+        "Job_title": "Fraud Operations Analyst",
+        "Company_name": "Weber Shandwick",
+        "Company_rating": "3.9",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $78.6K – $99.6K a year"
+    },
+    {
+        "Job_title": "Equity Research Analyst/Associate- REITS",
+        "Company_name": "Bank of America",
+        "Company_rating": "3.8",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $61.9K – $78.3K a year"
+    },
+    {
+        "Job_title": "Data Scientist",
+        "Company_name": "Penguin Random House LLC",
+        "Company_rating": "3.9",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $69.4K – $87.8K a year"
+    },
+    {
+        "Job_title": "Business Analyst, Real Estate and Workplace Services",
+        "Company_name": "Google",
+        "Company_rating": "4.3",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $73K – $92.4K a year"
+    },
+    {
+        "Job_title": "Data Quality Analyst",
+        "Company_name": "NYC Health + Hospitals",
+        "Company_rating": "3.8",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $117K – $148K a year"
+    },
+    {
+        "Job_title": "WAREHOUSE ATTENDANT - Barclays Center",
+        "Company_name": "Levy",
+        "Company_rating": "3.9",
+        "Company_location": "Brooklyn, NY",
+        "Estimated_salary": "Estimated $95.9K – $121K a year"
+    },
+    {
+        "Job_title": "Data Analyst/ Jr. Salesforce Administrator",
+        "Company_name": "NewYork-Presbyterian Hospital",
+        "Company_rating": "4.2",
+        "Company_location": "Brooklyn, NY",
+        "Estimated_salary": "Estimated $49.7K – $62.9K a year"
+    },
+    {
+        "Job_title": "Data Analyst",
+        "Company_name": "Columbia University",
+        "Company_rating": "4.1",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $67.2K – $85.2K a year"
+    },
+    {
+        "Job_title": "Data Analyst",
+        "Company_name": "Pratt Institute",
+        "Company_rating": "4.1",
+        "Company_location": "Remote in New York, NY",
+        "Estimated_salary": "Estimated $69.3K – $87.7K a year"
+    },
+    {
+        "Job_title": "Clinical Data Analyst",
+        "Company_name": "Flatiron Health",
+        "Company_rating": "4.3",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $65.1K – $82.5K a year"
+    },
+    {
+        "Job_title": "Senior Executive Assistant",
+        "Company_name": "Compass",
+        "Company_rating": "3.7",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $71.3K – $90.3K a year"
+    },
+    {
+        "Job_title": "Electrician",
+        "Company_name": "HelloFresh",
+        "Company_rating": "3.1",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $76.2K – $96.4K a year"
+    },
+    {
+        "Job_title": "Data Operations Specialist",
+        "Company_name": "Tremor Video",
+        "Company_rating": "3.8",
+        "Company_location": "Remote in New York, NY",
+        "Estimated_salary": "Estimated $35.3K – $44.7K a year"
+    },
+    {
+        "Job_title": "Student Assistant",
+        "Company_name": "Pace University",
+        "Company_rating": "4.2",
+        "Company_location": "Remote in New York, NY",
+        "Estimated_salary": "Estimated $35.2K – $44.6K a year"
+    },
+    {
+        "Job_title": "Business Development Analyst- New York, NY (J.P. Morgan Advi...",
+        "Company_name": "JPMorgan Chase Bank, N.A.",
+        "Company_rating": "3.9",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $149K – $188K a year"
+    },
+    {
+        "Job_title": "WALL STREET OPPORTUNITIES - IMMEDIATE",
+        "Company_name": "Amida Care",
+        "Company_rating": "3.2",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $41.8K – $53K a year"
+    },
+    {
+        "Job_title": "WALL STREET OPPORTUNITIES - IMMEDIATE",
+        "Company_name": "Justworks",
+        "Company_rating": "4.5",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $52.4K – $66.4K a year"
+    },
+    {
+        "Job_title": "Analyst | DOITT, Finance, Law, Mayoralty & Elected Officials",
+        "Company_name": "L'Occitane En Provence",
+        "Company_rating": "3.8",
+        "Company_location": "Manhattan, NY",
+        "Estimated_salary": "Estimated $61.3K – $77.7K a year"
+    },
+    {
+        "Job_title": "Data Custodian",
+        "Company_name": "Octane",
+        "Company_rating": "3.8",
+        "Company_location": "Hybrid remote in New York, NY",
+        "Estimated_salary": "Estimated $89.6K – $113K a year"
+    },
+    {
+        "Job_title": "Sustainable Finance Data Engineer",
+        "Company_name": "Morgan Stanley",
+        "Company_rating": "3.8",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $96.7K – $122K a year"
+    },
+    {
+        "Job_title": "Data Analyst",
+        "Company_name": "Fragomen",
+        "Company_rating": "3.2",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $54.3K – $68.7K a year"
+    },
+    {
+        "Job_title": "Keywatch Attendant (MGM Yonkers)",
+        "Company_name": "MGM Resorts International",
+        "Company_rating": "3.9",
+        "Company_location": "Yonkers, NY",
+        "Estimated_salary": "Estimated $40.7K – $51.5K a year"
+    },
+    {
+        "Job_title": "Financial Analyst, Columbia Record Group",
+        "Company_name": "Sony Music Entertainment US",
+        "Company_rating": "4.3",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $46.4K – $58.8K a year"
+    },
+    {
+        "Job_title": "WALL STREET OPPORTUNITIES - IMMEDIATE",
+        "Company_name": "AT&T",
+        "Company_rating": "3.7",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $106K – $134K a year"
+    },
+    {
+        "Job_title": "Data Center Technician/ Data Center Site Engineer",
+        "Company_name": "Braze",
+        "Company_rating": "4.5",
+        "Company_location": "Carlstadt, NJ",
+        "Estimated_salary": "Estimated $104K – $131K a year"
+    },
+    {
+        "Job_title": "Program Officer",
+        "Company_name": "Claims Conference",
+        "Company_rating": "4.3",
+        "Company_location": "Temporarily Remote in New York, NY",
+        "Estimated_salary": "Estimated $30.7K – $38.9K a year"
+    },
+    {
+        "Job_title": "Medical Data Analyst",
+        "Company_name": "CBOE",
+        "Company_rating": "3.8",
+        "Company_location": "White Plains, NY",
+        "Estimated_salary": "Estimated $60.5K – $76.7K a year"
+    },
+    {
+        "Job_title": "Strategy & Expansion Analyst",
+        "Company_name": "Cornershop by Uber",
+        "Company_rating": "3.6",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $62.9K – $79.7K a year"
+    },
+    {
+        "Job_title": "Executive Administrator",
+        "Company_name": "The Metro Group, Inc.",
+        "Company_rating": "3.4",
+        "Company_location": "Long Island City, NY",
+        "Estimated_salary": "Estimated $51.6K – $65.4K a year"
+    },
+    {
+        "Job_title": "Associate/Senior Associate, Securitization",
+        "Company_name": "KPMG",
+        "Company_rating": "3.9",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $91.9K – $116K a year"
+    },
+    {
+        "Job_title": "Chief Operating Officer",
+        "Company_name": "Capital Staffing Solutions",
+        "Company_rating": "4.1",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $29.7K – $37.7K a year"
+    },
+    {
+        "Job_title": "Associate Digital Product Manager",
+        "Company_name": "The Execu|Search Group",
+        "Company_rating": "3.8",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $62.6K – $79.2K a year"
+    },
+    {
+        "Job_title": "OEM Account Manager",
+        "Company_name": "FINN",
+        "Company_rating": "4.4",
+        "Company_location": "Remote in New York, NY",
+        "Estimated_salary": "Estimated $40.5K – $51.3K a year"
+    },
+    {
+        "Job_title": "Compliance Manager",
+        "Company_name": "Digital Bridge",
+        "Company_rating": "4.3",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $92.8K – $118K a year"
+    },
+    {
+        "Job_title": "Community Manager",
+        "Company_name": "New Alternatives for Children, Inc.",
+        "Company_rating": "3.7",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $56.5K – $71.5K a year"
+    },
+    {
+        "Job_title": "Programming Specialist - QUEENS & BROOKYLN",
+        "Company_name": "Lifespire",
+        "Company_rating": "3.2",
+        "Company_location": "Queens, NY",
+        "Estimated_salary": "Estimated $81.8K – $104K a year"
+    },
+    {
+        "Job_title": "College Coordinator, Promise Academy",
+        "Company_name": "Harlem Children's Zone",
+        "Company_rating": "3.5",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $77K – $97.4K a year"
+    },
+    {
+        "Job_title": "Entry Writer",
+        "Company_name": "OTX Logistics, Inc",
+        "Company_rating": "3.4",
+        "Company_location": "Jamaica, NY",
+        "Estimated_salary": "Estimated $76.9K – $97.3K a year"
+    },
+    {
+        "Job_title": "IT Director",
+        "Company_name": "SPECTRUM",
+        "Company_rating": "3.3",
+        "Company_location": "Brooklyn, NY",
+        "Estimated_salary": "Estimated $45.5K – $57.7K a year"
+    },
+    {
+        "Job_title": "Business Development Specialist - Mandarin Speaking",
+        "Company_name": "HungryPanda",
+        "Company_rating": "4.6",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $36K – $45.6K a year"
+    },
+    {
+        "Job_title": "Warehouse Associate (2nd Shift) Hiring Event",
+        "Company_name": "KSI Auto Parts",
+        "Company_rating": "2.4",
+        "Company_location": "Newark, NJ",
+        "Estimated_salary": "Estimated $33.4K – $42.4K a year"
+    },
+    {
+        "Job_title": "Citizen Data Scientist - Remote",
+        "Company_name": "Henkel",
+        "Company_rating": "3.8",
+        "Company_location": "Remote in New York, NY",
+        "Estimated_salary": "Estimated $61K – $77.2K a year"
+    },
+    {
+        "Job_title": "Search Engine Optimization Specialist",
+        "Company_name": "Siemens Healthineers",
+        "Company_rating": "3.8",
+        "Company_location": "Remote in Tarrytown, NY",
+        "Estimated_salary": "Estimated $78.2K – $99K a year"
+    },
+    {
+        "Job_title": "Per-Diem Family Support Specialist",
+        "Company_name": "New Alternatives for Children, Inc.",
+        "Company_rating": "3.7",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $34.7K – $43.9K a year"
+    },
+    {
+        "Job_title": "Director of Construction",
+        "Company_name": "NATIONAL HEALTH CARE ASSOCIATES",
+        "Company_rating": "2.7",
+        "Company_location": "Valley Stream, NY",
+        "Estimated_salary": "Estimated $96.4K – $122K a year"
+    },
+    {
+        "Job_title": "Medical Biller/Coder",
+        "Company_name": "Byram Healthcare",
+        "Company_rating": "2.9",
+        "Company_location": "Floral Park, NY",
+        "Estimated_salary": "Estimated $47.2K – $59.8K a year"
+    },
+    {
+        "Job_title": "Front-End / UI Developer (Mandarin MUST - Will Train - Natio...",
+        "Company_name": "QBS",
+        "Company_rating": "2.5",
+        "Company_location": "Temporarily Remote in New York, NY",
+        "Estimated_salary": "Estimated $28.4K – $36K a year"
+    },
+    {
+        "Job_title": "Marketing Director",
+        "Company_name": "The Metro Group, Inc.",
+        "Company_rating": "3.4",
+        "Company_location": "Long Island City, NY",
+        "Estimated_salary": "Estimated $69.8K – $88.4K a year"
+    },
+    {
+        "Job_title": "Database Developer",
+        "Company_name": "MATRIX Resources",
+        "Company_rating": "4.0",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $118K – $149K a year"
+    },
+    {
+        "Job_title": "Client Success Specialist",
+        "Company_name": "Byram Healthcare",
+        "Company_rating": "2.9",
+        "Company_location": "Hybrid remote in White Plains, NY",
+        "Estimated_salary": "Estimated $33.4K – $42.4K a year"
+    },
+    {
+        "Job_title": "Insurance Brokerage Account Executive",
+        "Company_name": "FreshDirect",
+        "Company_rating": "3.3",
+        "Company_location": "Rockville Centre, NY",
+        "Estimated_salary": "Estimated $83.5K – $106K a year"
+    },
+    {
+        "Job_title": "AR/AP Accountant",
+        "Company_name": "RW USA Corp.",
+        "Company_rating": "3.8",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $56K – $70.8K a year"
+    },
+    {
+        "Job_title": "Business Operations Manager",
+        "Company_name": "Newmark",
+        "Company_rating": "3.7",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $135K – $171K a year"
+    },
+    {
+        "Job_title": "LTW Assistant Director",
+        "Company_name": "GODDARD RIVERSIDE COMMUNITY CENTER",
+        "Company_rating": "3.9",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $42.5K – $53.9K a year"
+    },
+    {
+        "Job_title": "Recruitment Consultant",
+        "Company_name": "Michael Page",
+        "Company_rating": "3.5",
+        "Company_location": "Manhattan, NY",
+        "Estimated_salary": "Estimated $38.1K – $48.3K a year"
+    },
+    {
+        "Job_title": "Senior Accountant (construction)",
+        "Company_name": "The McCloud Group",
+        "Company_rating": "3.3",
+        "Company_location": "Long Island, NY",
+        "Estimated_salary": "Estimated $79.1K – $100K a year"
+    },
+    {
+        "Job_title": "Infrastructure Project Manager",
+        "Company_name": "Infinity Consulting Solutions, Inc.",
+        "Company_rating": "2.0",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $81.5K – $103K a year"
+    },
+    {
+        "Job_title": "Internal Audit Regulatory Engagement Lead",
+        "Company_name": "MATRIX Resources",
+        "Company_rating": "4.0",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $101K – $128K a year"
+    },
+    {
+        "Job_title": "Clinical Documentation Integrity (CDI) Specialist",
+        "Company_name": "Cityblock Health",
+        "Company_rating": "3.6",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $36K – $45.6K a year"
+    },
+    {
+        "Job_title": "Certified Medical Assistant (CMA)/Phlebotomist (CPT)",
+        "Company_name": "Atlas Search",
+        "Company_rating": "4.6",
+        "Company_location": "New York, NY",
+        "Estimated_salary": "Estimated $29.7K – $37.5K a year"
+    }
+]
