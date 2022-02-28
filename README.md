@@ -33,3 +33,6 @@ Job location: New York, NY
 The scraped data is stored into Analytics_Jobs_NY_Indeed.csv
 
 I will use the data I have collected to explore Analytics' job market in NY 📈.
+
+
+I am glad you have visited my project 🌹
