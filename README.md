@@ -34,5 +34,13 @@ The scraped data is stored into Analytics_Jobs_NY_Indeed.csv
 
 I will use the data I have collected to explore Analytics' job market in NY 📈.
 
+Authors
+
+- [@SvetlanaRedkina](https://github.com/SvetlanaRedkina)
+
+
+Honest feedback
+
+- If you have any feedback, please reach out to me at sveta.hq@gmail.com
 
 I am glad you have visited my project 🌹
