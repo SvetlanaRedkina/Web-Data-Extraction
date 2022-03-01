@@ -4,9 +4,9 @@
   style="width: 230px; height: 130px"> 
 # Web Data Extraction
 
-If you like me love working with data, then you might be interested 👀 how to extract data for Analysis in an efficient and fast way.
+If you, like me, love working with data, then you might be interested about 👀 how to extract data for Analysis in an efficient and fast way.
 
-With the help of web scraping, you can extract data from a website, no matter how large is the data, on your computer 💻. 
+With the help of web scraping, you can extract data from a website, no matter how large the data is on your computer 💻. 
 
 For this project, I use Python's 🐍 Scrapy.
 
@@ -14,25 +14,25 @@ There are currently two folders in the repo:
 
 ## 1. Chewy 🐶 😹
 
-In dogs_food.py file, you can see that DogsFoodSpider(CrawlSpider) scrapes the information from Chewy.com about dogs wet food.
+In the dogs_food.py file, you can see that DogsFoodSpider(CrawlSpider) scrapes the information from Chewy.com about dogs' wet food.
 
-The scraped data is stored into Wet_Dog_Food.csv.
+The scraped data is stored into the Wet_Dog_Food.csv.
 
-I can use the data to analyze the price-quality relationships of the scraped items. 
+I can use the data to analyze price-quality relationships of the scraped items. 
 
 The end goal is to find the best food for my wonderful dog Yuna 🐕.
 
 ## 2. Indeed 👷
 
-In jobs_ny.py file, you will find class JobsNySpider(scrapy.Spider) that scrapes data from Indeed.com.
+In the jobs_ny.py file, you will find a class called JobsNySpider(scrapy.Spider) that scrapes data from Indeed.com.
 
-I am interested in gathering information about Analytics job postings.
+I am interested in gathering information about Analytics' job postings.
 
 Job location: New York, NY.
 
-The scraped data is stored into Analytics_Jobs_NY_Indeed.csv.
+The scraped data is stored into the Analytics_Jobs_NY_Indeed.csv.
 
-I will use the data I have collected to explore Analytics' job market in NY 📈.
+I will use the data I have collected to explore the Analytics' job market in NY 📈.
 
 Authors
 
